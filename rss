@@ -1,62 +1,51 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
-<channel>
-<atom:link href="https://feeds.sounder.fm/4611/rss.xml" rel="self" type="application/rss+xml"/>
-<atom:link xmlns="http://www.w3.org/2005/Atom" href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-<generator>Sounder.fm Podcasts</generator>
-<title>Shengyren Industries, LLC Test</title>
-<description>
-<![CDATA[ TEST ]]>
-</description>
-<link>https://test00001.sounder.fm</link>
-<docs>https://test00001.sounder.fm</docs>
-<language>en</language>
-<copyright>
-<![CDATA[ All rights reserved. ]]>
-</copyright>
-<lastBuildDate>Tue, 30 Jun 2020 18:53:17 GMT</lastBuildDate>
-<managingEditor>TEST@shengyren.com (TEST@shengyren.com)</managingEditor>
-<image>
-<url>https://cdn2.sounder.fm/3501/conversions/Screenshot-2020-06-04-at-7.21.49-PM-square_big.jpg?v=1593543137</url>
-<title>Shengyren Industries, LLC Test</title>
-<link>
-<![CDATA[ https://test00001.sounder.fm ]]>
-</link>
-</image>
-<itunes:author>Shengyren Industries, LLC</itunes:author>
-<itunes: explicit> No </ itunes: explicit>
-<itunes:category text="Business"/>
-<itunes:new-feed-url>https://feeds.sounder.fm/4611/rss.xml</itunes:new-feed-url>
-<itunes:summary>TEST</itunes:summary>
-<itunes:type>episodic</itunes:type>
-<itunes:owner>
-<itunes:email>TEST@shengyren.com</itunes:email>
-<itunes:name>Shengyren Industries, LLC</itunes:name>
-</itunes:owner>
-<itunes:image href="https://cdn2.sounder.fm/3501/conversions/Screenshot-2020-06-04-at-7.21.49-PM-square_big.jpg?v=1593543137"/>
-<item>
-<title>TEST</title>
-<author>Shengyren Industries, LLC</author>
-<dc:creator>Shengyren Industries, LLC</dc:creator>
-<enclosure url="https://cdn2.sounder.fm/3502/audio--45226--4611--12319--4161905d-0c21-4a8a-ac43-c82f6e591106.m4a?v=1593543155" length="30195" type="audio/x-m4a"/>
-<guid isPermalink="false">14c1e87d-5009-4c38-be74-c7ce40238ee4</guid>
-<pubDate>Tue, 30 Jun 2020 18:52:35 GMT</pubDate>
-<link>
-<![CDATA[ https://test00001.sounder.fm/episode/test ]]>
-</link>
-<description>
-<![CDATA[ <p>TEST</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>TEST</p> ]]>
-</content:encoded>
-<itunes:title>TEST</itunes:title>
-<itunes:author>Shengyren Industries, LLC</itunes:author>
-<itunes:duration>00:00:02</itunes:duration>
-<itunes:explicit>no</itunes:explicit>
-<itunes:summary>TEST</itunes:summary>
-<itunes:episode>1</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
-</item>
-</channel>
+  <channel>
+    <atom:link href="https://feeds.sounder.fm/4611/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link xmlns="http://www.w3.org/2005/Atom" href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <generator>Sounder.fm Podcasts</generator>
+    <title>Shengyren Industries, LLC Test</title>
+    <description><![CDATA[TEST]]></description>
+    <link>https://test00001.sounder.fm</link>
+    <docs>https://test00001.sounder.fm</docs>
+    <language>en</language>
+    <copyright><![CDATA[All rights reserved.]]></copyright>
+    <lastBuildDate>Tue, 30 Jun 2020 18:53:17 GMT</lastBuildDate>
+    <managingEditor>TEST@shengyren.com  (TEST@shengyren.com)</managingEditor>
+    <image>
+      <url>https://cdn2.sounder.fm/3501/conversions/Screenshot-2020-06-04-at-7.21.49-PM-square_big.jpg?v=1593543137</url>
+      <title>Shengyren Industries, LLC Test</title>
+      <link><![CDATA[https://test00001.sounder.fm]]></link>
+    </image>
+    <itunes:author>Shengyren Industries, LLC</itunes:author>
+    <itunes: explicit> No </ itunes: explicit>
+    <itunes:category text="Business"/>
+    <itunes:new-feed-url>https://feeds.sounder.fm/4611/rss.xml</itunes:new-feed-url>
+    <itunes:summary>TEST</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:email>TEST@shengyren.com</itunes:email>
+      <itunes:name>Shengyren Industries, LLC</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://cdn2.sounder.fm/3501/conversions/Screenshot-2020-06-04-at-7.21.49-PM-square_big.jpg?v=1593543137"/>
+    <item>
+      <title>TEST</title>
+      <author>Shengyren Industries, LLC</author>
+      <dc:creator>Shengyren Industries, LLC</dc:creator>
+      <enclosure url="https://cdn2.sounder.fm/3502/audio--45226--4611--12319--4161905d-0c21-4a8a-ac43-c82f6e591106.m4a?v=1593543155" length="30195" type="audio/x-m4a"/>
+      <guid isPermalink="false">14c1e87d-5009-4c38-be74-c7ce40238ee4</guid>
+      <pubDate>Tue, 30 Jun 2020 18:52:35 GMT</pubDate>
+      <link><![CDATA[https://test00001.sounder.fm/episode/test]]></link>
+      <description><![CDATA[<p>TEST</p>]]></description>
+      <content:encoded><![CDATA[<p>TEST</p>]]></content:encoded>
+      <itunes:title>TEST</itunes:title>
+      <itunes:author>Shengyren Industries, LLC</itunes:author>
+      <itunes:duration>00:00:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>TEST</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
 </rss>
